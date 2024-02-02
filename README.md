@@ -1,2 +1,3 @@
-# Numerical_Analysis
-Contains content from both numerical analysis I and II
+# Biomedical_Informatics
+
+Contains lecture, homework, and code from biomedical informatics classes.
